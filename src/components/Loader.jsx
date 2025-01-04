@@ -1,5 +1,4 @@
 import React from "react";
-import PacmanLoader from "react-spinners/PacmanLoader";
 import styles from "./Loading.module.css";
 
 const Loader = () => {
