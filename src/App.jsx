@@ -4,7 +4,7 @@ import Question from "./components/Question";
 import Score from "./components/Score";
 import Loader from "./components/Loader";
 import styles from './App.module.css';
-import Header from "./components/Header";
+import Header from "./components/Heading";
 
 const API_URL = "https://opentdb.com/api.php?amount=10&type=multiple";
 
