@@ -1,0 +1,16 @@
+/* Header.css */
+.headerContainer {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto; /* Centering the header */
+    padding: 20px 0; /* Optional padding for spacing */
+    text-align: center; /* Center the logo */
+    background-color: #f8f9fa; /* Optional background color */
+  }
+  
+  .headerContainer h1 {
+    font-size: 2.5rem; /* Adjust the font size */
+    color: #333; /* Adjust the text color */
+    margin: 0;
+  }
+  
